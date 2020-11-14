@@ -8,7 +8,7 @@
 - 📫 How to reach me: Email me!
 
 ### Projects:
-- [This](https://rpubs.com/ab_cstr/661188) is a visualization I made about race in Montgomery County, MD.
+- [This](http://rpubs.com/ab_cstr/montcounty) is a visualization I made about race in Montgomery County, MD.
 
 
 

@@ -3,8 +3,8 @@
 
 ### About me:
 
-- 🔭 I’m currently investigating the relationship between political affiliation and COVID-19 infections. 
-- 🌱 I’m currently studying machine learning with Bayesian Additive Regression Trees. 
+- 🔭 I’m interested in biology, policy, and data science.
+- 🌱 Most recently learning: ML with Bayesian Additive Regression Trees
 - 📫 How to reach me: Email me!
 
 ### Projects:
